@@ -3,7 +3,7 @@ title: "Joyeria Rubi!"
 description: "'Donde vendemos todo tipo de Joyeria.'
 '¡La joyería es todo glamour! El oro y los diamantes no sólo aumentan el valor de cualquier atuendo, sino que también demuestran respeto por su portador. ¿El imprescindible de esta temporada? ¡Pendientes de diamantes!.
 'Nuestra joya más exquisita hasta ahora,."
-picture: blog2.jpg
+picture: assets/img/descarga.jfif
 
 label_default: "Rubi" 
 label_primary: "story"
